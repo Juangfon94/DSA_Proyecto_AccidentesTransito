@@ -29,5 +29,3 @@ El repositorio está organizado en las siguientes carpetas:
 - Jupyter Notebook
 - Librerías: pandas, numpy, matplotlib, seaborn, scikit-learn, dvc
 - Para instalar las dependencias necesarias, puedes utilizar el siguiente comando: pip install -r requirements.txt
-
-test
